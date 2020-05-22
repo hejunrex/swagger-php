@@ -1,5 +1,5 @@
 {
-  "name": "hejunrex/swagger-php",
+  "name": "zircote/swagger-php",
   "type": "library",
   "license": "Apache-2.0",
   "bin": [
