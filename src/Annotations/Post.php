@@ -17,6 +17,11 @@ class Post extends Operation
     public $method = 'post';
 
     /**
+     * @var array
+     */
+    public $consumes = [];
+
+    /**
      * @inheritdoc
      */
     public static $_parents = [
